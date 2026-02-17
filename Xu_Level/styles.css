@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#XL {
+    display: block;
+    margin: 20px auto;
+    width: 80%;
+}
+
+#SX {
+    width: 200px; 
+    height: auto;
+    transition: width 0.2s ease-out;
+    display: block;
+    margin: auto;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
